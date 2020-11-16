@@ -74,6 +74,8 @@ dwildt:~/environment/maisdevbr/ola-mundo (main) $ git commit -m "markdown"
  1 file changed, 1 insertion(+), 1 deletion(-) 
 ```
 
+- [X] Checked
+
 Indiquei através do "-m" a mensagem do commit. Depois de ter feito, gostaria de mudar, para "link para tutorial de markdown". Para poder mudar a mensagem do commit recém feito, antes dele ser enviado para a origem, podemos usar --amend indicando uma nova mensagem de commit. 
 
 ```
@@ -97,6 +99,8 @@ remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To github.com:maisdevbr/ola-mundo.git
    558268c..b9e5b41  main -> main
 ```
+
+- [X] Checked
 
 O comando "git push origin main" está dizendo que queremos enviar todos pacotes de commit que organizamos para o remoto "origin" e para o branch "main". O git é um sistema de controle de versão distribuído, então na prática podemos ter diversos "remotes". O uso de origin é uma convenção. 
 
