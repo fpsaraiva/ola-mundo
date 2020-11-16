@@ -19,6 +19,8 @@ Depois de fazer o fork, você pode clonar o ambiente:
 $ git clone git@github.com:<user>/ola-mundo.git
 ``` 
 
+- [X] Checked
+
 ## Modifique o README.md
 
 Adicione algo no arquivo README.md, modifique uma palavra. Agora precisamos verificar o que está diferente no nosso repositório. Para isso usamos o"git status":
@@ -36,6 +38,8 @@ Changes not staged for commit:
 
 no changes added to commit (use "git add" and/or "git commit -a")
 ```
+
+- [X] Checked
 
 ## Levando os arquivos para o servidor
 
@@ -57,6 +61,8 @@ Changes to be committed:
 
         modified:   README.md
 ``` 
+
+- [X] Checked
 
 Se você adicionou o arquivo por engano, o próprio git retornou o comando que você pode usar para desfazer o add, usando git reset especificando o arquivo. 
 
