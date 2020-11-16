@@ -10,6 +10,6 @@ Seja para explicar o que o projeto é e o que ele não é. Este projeto por exem
 
 ## Aprendendo markdown
 
-Muito importante para atualizar estes arquivos e outras documentações que podem existir dentro dos projetos. 
+Muito importante para atualizar estes arquivos e outras documentações que podem existir dentro dos projetos. Se o seu objetivo é escrever no [dev.to](https://dev.to), os posts são escritos em markdown. Veja [dicas sobre markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet). 
 
 
